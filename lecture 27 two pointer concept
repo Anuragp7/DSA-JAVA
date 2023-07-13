@@ -1,5 +1,6 @@
 import java.util.*;
 //two pointer concept
+
 public class TwoPointerConcept{
 public static void main(String[] args)
 {
