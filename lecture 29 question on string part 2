@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class CheckPalindrome{
 static boolean checkPalindrome(String s)
 {
