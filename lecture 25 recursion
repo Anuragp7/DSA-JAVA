@@ -1,7 +1,5 @@
 import java.util.*;
 
-//Recursion
-
 public class RecursionStudy
 {
 static void printDescending(int n)
